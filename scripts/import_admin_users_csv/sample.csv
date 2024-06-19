@@ -1,0 +1,7 @@
+username,firstname,lastname,email,password,role_id,is_active,interface_locale
+admin1,admin1,admin1,admin1@example.com,X7gLS(-)B!2e,1,1,th_TH
+admin2,admin2,admin2,admin2@example.com,EY+-e9!Q=jFu,1,1,th_TH
+admin3,admin3,admin3,admin3@example.com,-2Ft{x+8&4su,1,1,th_TH
+admin4,admin4,admin4,admin4@example.com,a%k5Ky4qwrf%,1,1,th_TH
+admin5,admin5,admin5,admin5@example.com,5Jh@v4UnQr)a,1,1,th_TH
+admin6,admin6,admin6,admin6@example.com,6y}7E&sMN8km,1,1,th_TH
